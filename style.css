@@ -1,9 +1,10 @@
 body {
     overflow-x: hidden;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url('../img/geometry.jpg');
+    background-image: url('img/wallpaper.jpg');
     background-size: cover;
     background-attachment: fixed;
+    backdrop-filter: blur(10px);
 }
 
 /* Main container for the slideshow and metadata */
