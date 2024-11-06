@@ -4,79 +4,62 @@
             "imgPath": "...",
             "driverName": "George Russell",
             "gotHouse": "Tully",
-            "death": ""
+            "basedOn": "Edmure Tully"
         },
         {
             "imgPath": "...",
             "driverName": "Charles Leclerc",
-            "gotHouse": "Lanister",
-            "death": ""
+            "gotHouse": "Tyrell",
+            "basedOn": "Ser Loras Tyrell"
         },
         {
             "imgPath": "...",
             "driverName": "Max Verstappen",
             "gotHouse": "Baratheon",
-            "death": ""
+            "basedOn": " King Renly Baratheon"
         },
         {
             "imgPath": "...",
             "driverName": " Mark Webber",
             "gotHouse": "Greyjoy",
-            "death": ""
+            "basedOn": "Theon ( Reek )  Greyjoy"
         },
         {
             "imgPath": "...",
             "driverName": "Alex Albon",
             "gotHouse": "",
-            "death": ""
+            "basedOn": "Ser Harwin Strong"
         },
         {
             "imgPath": "...",
             "driverName": "Lando Norris",
-            "gotHouse": " Dorne",
-            "death": ""
+            "gotHouse": "Martell",
+            "basedOn": "Prince Obyren Martell"
         },
         {
             "imgPath": "...",
             "driverName": " Sebastian Vettel",
             "gotHouse": "Lannister",
-            "death": ""
+            "basedOn": "Ser Jaime Lannister"
         },
         {
             "imgPath": "...",
             "driverName": "Mick Schumacher",
             "gotHouse": "Targaeryen",
-            "death": ""
+            "basedOn": "Aemond the Conquerer"
         },
         {
             "imgPath": "...",
             "driverName": "Oscar Piastri",
-            "gotHouse": "Baratheon",
-            "death": ""
+            "gotHouse": "Velaryon",
+            "basedOn": "Lord of the Tides and Prince of Dragonstone, Jacaerys Velaryon"
         },
         {
             "imgPath": "...",
             "driverName": "Lewis Hamilton",
             "gotHouse": "Velaryon",
-            "death": ""
-        },
-        {
-            "imgPath": "...",
-            "driverName": "",
-            "gotHouse": "",
-            "death": ""
-        },
-        {
-            "imgPath": "...",
-            "driverName": "...",
-            "gotHouse": "",
-            "death": ""
-        },
-        {
-            "imgPath": "...",
-            "driverName": "...",
-            "gotHouse": "",
-            "death": ""
+            "basedOn": "Corlys Velaryon"
         }
+      
   ]
 }
