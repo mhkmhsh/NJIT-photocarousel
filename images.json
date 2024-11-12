@@ -1,61 +1,61 @@
 {
     "images": [
         {
-            "imgPath": "...",
+            "imgPath": "img/georgerussell.jpg",
             "driverName": "George Russell",
             "gotHouse": "Tully",
             "basedOn": "Edmure Tully"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/charles.jpg",
             "driverName": "Charles Leclerc",
             "gotHouse": "Tyrell",
             "basedOn": "Ser Loras Tyrell"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/maxversy.jpg",
             "driverName": "Max Verstappen",
             "gotHouse": "Baratheon",
             "basedOn": " King Renly Baratheon"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/markwebber.jpg",
             "driverName": " Mark Webber",
             "gotHouse": "Greyjoy",
             "basedOn": "Theon ( Reek )  Greyjoy"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/alexalbon.jpg",
             "driverName": "Alex Albon",
             "gotHouse": "",
             "basedOn": "Ser Harwin Strong"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/lando.jpg",
             "driverName": "Lando Norris",
             "gotHouse": "Martell",
             "basedOn": "Prince Obyren Martell"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/sebvett.jpg",
             "driverName": " Sebastian Vettel",
             "gotHouse": "Lannister",
             "basedOn": "Ser Jaime Lannister"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/micky.jpg",
             "driverName": "Mick Schumacher",
             "gotHouse": "Targaeryen",
             "basedOn": "Aemond the Conquerer"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/oscah.jpg",
             "driverName": "Oscar Piastri",
             "gotHouse": "Velaryon",
             "basedOn": "Lord of the Tides and Prince of Dragonstone, Jacaerys Velaryon"
         },
         {
-            "imgPath": "...",
+            "imgPath": "img/lewlew.jpg",
             "driverName": "Lewis Hamilton",
             "gotHouse": "Velaryon",
             "basedOn": "Corlys Velaryon"
