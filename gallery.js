@@ -3,6 +3,18 @@ let mImages = [] // Array to hold GalleryImage objects
 const mUrl = 'images.json' // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
+$.ajax({
+  url: mUrl,         
+  type: 'GET',       
+  dataType: 'json',  
+  success: function(data) {
+      mImages = data; 
+      console.log(mImages); 
+  },
+  error: function() {
+      console.error('Error fetching data');  
+  }
+});
 
 $(document).ready(() => {
   $('.details').hide() // Hide details initially
@@ -24,25 +36,12 @@ $(document).ready(() => {
   fetchJSON()
 })
 // Function to fetch JSON data and store it in mImages
-function fetchJSON() {
+function fetchJSON () {
   // Use $.ajax here to request the JSON data from mUrl
-  $.ajax({
-    type: "GET",
-    url: mUrl,
-    dataType: "json",
-    // On success, parse the JSON and push each image object into mImages array
-    success: function (data) {
-      mImages = data.images
-      // After JSON is loaded, call swapPhoto() to display the first image
-      swapPhoto()
-    },
-    error: function () {
-      alert("File has not loaded in.")
-    }
-  });
-
+  // On success, parse the JSON and push each image object into mImages array
+  // After JSON is loaded, call swapPhoto() to display the first image
 }
-// Function to swap and display the next photo in the slideshow
+
 // Function to swap and display the next photo in the slideshow
 function swapPhoto() {
   // Access mImages[mCurrentIndex] to update the image source and details
