@@ -4,7 +4,7 @@ body {
     background-image: url('img/wallpaper.jpg');
     background-size: cover;
     background-attachment: fixed;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(2px);
 }
 
 /* Main container for the slideshow and metadata */
@@ -13,7 +13,7 @@ body {
     max-width: 500px; /* Increased max-width for larger display */
     width: 90%; /* Keeps width responsive */
     margin: auto;
-    background-color: rgba(117, 0, 0, 0.9);
+   
     
     border-radius: 8px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
@@ -63,11 +63,11 @@ body {
 
 /* Metadata container styling */
 .details {
-    border: 1px dashed #690000;
+    border: 1px dashed #000000;
     padding: 15px;
-    background-color: #7fa0a0; /* Light background to distinguish from main area */
+    background-color: #961515; /* Light background to distinguish from main area */
     border-radius: 4px;
-    color: #6d0000;
+    color: #ffc812;
     font-size: 1rem; /* Slightly larger text for readability */
 }
 
